@@ -55,3 +55,11 @@ To verify that noise detections are being stored correctly, enter the MongoDB sh
 mongosh
 use urban_noise_db
 db.iot.find().pretty()
+
+### 👥 Group 30 Details 
+* **University:** Universiti Sains Malaysia (USM) 
+* **Course:** CPC357 - IoT Architecture & Smart Applications 
+* **Group Members:**
+    1. Marcus Tan Tung Chean - 164952 
+    2. Ng Zi Jian - 164856 
+
