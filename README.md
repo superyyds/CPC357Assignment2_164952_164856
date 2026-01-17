@@ -55,6 +55,7 @@ To verify that noise detections are being stored correctly, enter the MongoDB sh
 mongosh
 use urban_noise_db
 db.iot.find().pretty()
+```
 
 ### 👥 Group 30 Details 
 * **University:** Universiti Sains Malaysia (USM) 
