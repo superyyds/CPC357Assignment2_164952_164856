@@ -1,8 +1,8 @@
 # 🏙️ Urban Noise Monitoring System
 
-An end-to-end IoT solution designed to detect and classify urban noise pollution (e.g., sirens, drilling, car horns) using **Edge AI** and **Cloud Computing**. This project supports **SDG 11: Sustainable Cities and Communities** by providing data-driven insights to mitigate noise pollution while preserving citizen privacy.
+An end-to-end IoT solution designed to detect and classify urban noise pollution such as sirens, drilling, car horns using **Edge AI** and **Cloud Computing**. This assignment supports **SDG 11: Sustainable Cities and Communities** by providing data-driven insights to mitigate noise pollution while preserving citizen privacy.
 
-## 🚀 Project Overview
+## 🚀 Assignment Overview
 This system utilizes a **Maker Feather S3 (ESP32-S3)** to capture environmental audio and classify it locally using a **TinyML** model. Detected noise metadata is transmitted via **MQTT** to a **Google Cloud Platform (GCP)** VM, where a Python-based middleware bridge stores the data in a **NoSQL MongoDB** database for historical analysis and urban planning.
 
 ### 🏗️ System Architecture
