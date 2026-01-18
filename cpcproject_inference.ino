@@ -6,9 +6,9 @@
 #include <CPC357_Project_inferencing.h> 
 
 // --- CONFIGURATION ---
-const char* ssid = "Peeee";
-const char* password = "244466666";
-const char* mqtt_server = "34.29.181.85"; 
+const char* ssid = "YOUR SSID";
+const char* password = "YOUR PASSWORD";
+const char* mqtt_server = "MQTT SERVER EXTERNAL IP"; 
 const char* device_id = "makerfeathers301";
 const char* mqtt_topic = "urban/noise";
 
